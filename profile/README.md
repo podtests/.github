@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://avatars.githubusercontent.com/u/49721958?s=200&v=4" alt="PodTest Logo" width="100" style="border-radius: 16px;" />
+<img src="../banner.png" alt="PodTest Banner — Master Test Automation in the AI Era" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
 <h1>🚀 PodTest — Master Test Automation in the AI Era</h1>
 
