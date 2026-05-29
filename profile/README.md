@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../banner.png" alt="PodTest Banner — Master Test Automation in the AI Era" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+<img src="../banner2.png" alt="PodTest Banner — Master Test Automation in the AI Era" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
 <h1>🚀 PodTest — Master Test Automation in the AI Era</h1>
 
