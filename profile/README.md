@@ -140,8 +140,8 @@ Explore structured learning paths at [podtest.in/courses](https://podtest.in/cou
 
 | Platform | Link |
 |---|---|
-| 🌐 Website | [podtest.in](https://podtest.in) |
-| 📧 Contact | [podtest.in/contactus](https://podtest.in/contactus) |
+| 🌐 Website | [podtest.in](https://www.podtest.in) |
+| 📧 Contact | [podtest.in/contactus](https://www.podtest.in/contactus) |
 | 💬 WhatsApp Community | [Join the group](https://chat.whatsapp.com/GoCYzYyrf7AEnlxcIzn0mx) |
 | 🎮 Discord | [discord.gg/5X6pPztw](https://discord.gg/5X6pPztw) |
 | 📺 YouTube | [@podtest](https://youtube.com/@podtest) |
